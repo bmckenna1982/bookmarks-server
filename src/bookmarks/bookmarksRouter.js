@@ -35,21 +35,21 @@ bookmarksRouter
       }
     }
 
-    const { title, page_url, page_description, rating } = req.body
-    // const page_url = req.body.page_url
-    // console.log(page_url)
+    const { title, url, description, rating } = req.body
+    // const url = req.body.url
+    // console.log(url)
 
     if (!Number.isInteger(rating) || rating < 0 || rating > 5) {
       logger.error(`Invalid rating '${rating}' supplied`)
       return res.status(400).send(`'rating' must be a number between 0 and 5`)
     }
 
-    if (!isWebUri(page_url)) {
-      logger.error(`Invalid url '${page_url}' supplied`)
-      return res.status(400).send(`'page_url' must be a valid URL`)
+    if (!isWebUri(url)) {
+      logger.error(`Invalid url '${url}' supplied`)
+      return res.status(400).send(`'url' must be a valid URL`)
     }
 
-    const newBookmark = { title, page_url, page_description, rating }
+    const newBookmark = { title, url, description, rating }
 
     console.log(newBookmark)
     BookmarksService.insertBookmark(

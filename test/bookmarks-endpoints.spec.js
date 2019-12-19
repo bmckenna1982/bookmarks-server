@@ -215,14 +215,14 @@ describe('Bookmarks endpoints', () => {
         .post(`/bookmarks`)
         .send(newBookmarkInvalidUrl)
         .set('Authorization', `Bearer ${process.env.API_TOKEN}`)
-        .expect(400, `'page_url' must be a valid URL`)
+        .expect(400, `'url' must be a valid URL`)
     })
 
     it('adds a new bookmark to the store', () => {
       const newBookmark = {
         title: 'test-title',
-        page_url: 'https://test.com',
-        page_description: 'test description',
+        url: 'https://test.com',
+        description: 'test description',
         rating: 1,
       }
       
@@ -233,8 +233,8 @@ describe('Bookmarks endpoints', () => {
         .expect(201)
         .expect(res => {
           expect(res.body.title).to.eql(newBookmark.title)
-          expect(res.body.page_url).to.eql(newBookmark.page_url)
-          expect(res.body.Page_description).to.eql(newBookmark.page_description)
+          expect(res.body.url).to.eql(newBookmark.url)
+          expect(res.body.description).to.eql(newBookmark.description)
           expect(res.body.rating).to.eql(newBookmark.rating)
           expect(res.body).to.have.property('id')
         })

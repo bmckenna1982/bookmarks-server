@@ -1,6 +1,6 @@
 BEGIN;
 
-insert into bookmarks (title, page_url, page_description)
+insert into bookmarks (title, url, description)
   values
     ('Google', 'http://www.google.com', 'Google description'),
     ('ESPN', 'http://www.espn.com', 'ESPN Sports network'),

@@ -7,11 +7,11 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Start server debug",
+      "name": "Start app debug",
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}\\src\\server.js"
+      "program": "${workspaceFolder}\\src\\app.js"
     }
   ]
 }

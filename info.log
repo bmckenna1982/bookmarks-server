@@ -3,3 +3,939 @@
 {"message":"Bookmark with id 53fbe4c1-1a7d-44a7-b59b-6093302e7119 added to list","level":"info"}
 {"message":"Bookmark with id 53fbe4c1-1a7d-44a7-b59b-6093302e7119 was deleted","level":"info"}
 {"message":"Unauthorized request to path: /","level":"error"}
+<<<<<<< HEAD
+=======
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"Bookmark with id 3 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"next is not defined","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"next is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 1234 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 123 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 123 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 123 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 123 not found","level":"error"}
+{"message":"bookmark is not defined","level":"error"}
+{"message":"Bookmark with id 123 not found","level":"error"}
+{"message":"BookarksService is not defined","level":"error"}
+{"message":"Undefined binding(s) detected when compiling FIRST. Undefined column(s): [id] query: select * from \"bookmarks\" where \"id\" = ? limit ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"bookmarks\" where \"id\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"bookmarks\" where \"id\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"bookmarks\" where \"id\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling SELECT. Undefined column(s): [id] query: select * from \"bookmarks\" where \"id\" = ?","level":"error"}
+{"message":"xss is not defined","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"BookmarksService.deleteBookmark is not a function","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"isWebUri is not defined","level":"error"}
+{"message":"isWebUri is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"BookmarksService.deleteBookmark is not a function","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"BookarksService is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"BookmarksService.deleteBookmark is not a function","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"BookarksService is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"BookarksService is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"BookarksService is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"rating\", \"title\", \"url\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"rating\", \"title\", \"url\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"page_url is required","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"page_url\", \"rating\", \"title\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"rating\", \"title\", \"url\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"rating\", \"title\", \"url\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"rating\", \"title\", \"url\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"url is not defined","level":"error"}
+{"message":"url is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"url is not defined","level":"error"}
+{"message":"url is not defined","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"page_url\", \"rating\", \"title\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"insert into \"bookmarks\" (\"description\", \"page_url\", \"rating\", \"title\") values ($1, $2, $3, $4) returning * - column \"description\" of relation \"bookmarks\" does not exist","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'undefined' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+>>>>>>> 4551b652c9d8a75759736636c770dc57cf072618
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Card with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 update.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 update.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 update.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 update.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 update.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 2 update.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 2 update.","level":"info"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /api/api/bookmark","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmark","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmark/3","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmark/3","level":"error"}
+{"message":"Unauthorized request to path: /api/api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Unauthorized request to path: /api/api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Unauthorized request to path: /api/api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Unauthorized request to path: /api/api/bookmarks :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3 :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3 :undefined ","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Unauthorized request to path: /api/api/bookmarks :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/api/bookmarks :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3 :undefined ","level":"error"}
+{"message":"Unauthorized request to path: /api/bookmarks/3 :undefined ","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating 'invalid' supplied","level":"error"}
+{"message":"Invalid url 'htp://invalid-url' supplied","level":"error"}
+{"message":"Card with id 1 created.","level":"info"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Bookmark with id 123 not found.","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Bookmark with id 1 updated.","level":"info"}
+{"message":"Bookmark with id 1 updated.","level":"info"}
+{"message":"Invalid rating '2' supplied","level":"error"}
+{"message":"Invalid rating '2' supplied","level":"error"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Bookmark with id 2 updated.","level":"info"}
+{"message":"Bookmark with id 3 updated.","level":"info"}
+{"message":"Bookmark with id 4 updated.","level":"info"}
